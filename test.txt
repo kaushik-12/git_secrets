@@ -1,0 +1,6 @@
+AWS_SECRET_ACCESS_KEY = wjalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+password=*******
+Hello_world = jkskasdkaskdjakhkas
+username=sysadmin@aricent.com
+passowrd=syshavuser555
+password123
